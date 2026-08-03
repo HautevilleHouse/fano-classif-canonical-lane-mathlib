@@ -1,0 +1,14 @@
+-- This module is the root of the FanoClassifCanonicalLaneLean Lean proof package.
+import FanoClassifCanonicalLaneLean.Basic
+import FanoClassifCanonicalLaneLean.SourcePackage
+import FanoClassifCanonicalLaneLean.SourceDependencies
+import FanoClassifCanonicalLaneLean.Formalization
+import FanoClassifCanonicalLaneLean.ReviewerBridge
+import FanoClassifCanonicalLaneLean.TheoremStatement
+import FanoClassifCanonicalLaneLean.MathlibObjects
+import FanoClassifCanonicalLaneLean.AdmissibleClass
+import FanoClassifCanonicalLaneLean.Projection
+import FanoClassifCanonicalLaneLean.BridgeLemmas
+import FanoClassifCanonicalLaneLean.GateLemmas
+import FanoClassifCanonicalLaneLean.FinalTheorem
+import FanoClassifCanonicalLaneLean.MathlibStatement
